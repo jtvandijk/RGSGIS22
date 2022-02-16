@@ -1,0 +1,14 @@
+--- 
+title: "GIScience Research Group"
+author: Dr Justin van Dijk^[[mappingdutchman.com](https://mappingdutchman.com/)], Dr Stefano De Sabbata^[[sdesabbata.github.io/](https://sdesabbata.github.io/)]
+date: "Last modified: `r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+link-citations: yes
+github-repo: "jtvandijk/RGSGIS22"
+description: "RGIS GIScience Research Group"
+url: 'https\://jtvandijk.github.io/RGSGIS22/'
+---
+
+# RGS AIC Sponsored Sessions GIScience Research Group {-}
