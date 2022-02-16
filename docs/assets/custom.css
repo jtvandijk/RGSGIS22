@@ -39,14 +39,10 @@
 }
 
 /*--- links ---*/
-a {
+.book-body a {
   color: #E45201 !important;
 }
 
-.book .book-summary ul.summary li>a {
-  color: #000000 !important;
-}
-
-.book .book-summary ul.summary li.hover>a {
+.summary a:hover {
   color: #E45201 !important;
 }
