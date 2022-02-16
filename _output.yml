@@ -2,7 +2,6 @@ bookdown::gitbook:
   css: assets/custom.css
   config:
     toc:
-      collapse: section
       before: |
         <li class="toc-logo">
         <a href="https://geoinfo.science/"><img src="images/giscience-rg-logo.png">
