@@ -30,7 +30,7 @@ This year the GIScRG is pleased to sponsor paper presentation sessions on the fo
 * Session 3: [Dealing with uncertainty: Quality and Representation in the context of Big Data](#session-3)
 * Session 4: [Ethics within GIScience, including (but not limited to) the Locus Charter](#session-4)
 
-The deadline for abstract submission to each of these sessions is **March 18th, 2022.** Further to the paper sessions we also sponsor a [World café](https://www.rgs.org/research/annual-international-conference/call/conference-session-formats/world-cafe/) session:
+The deadline for abstract submission to each of these sessions is **March 18th, 2022.** Further to the paper sessions we also sponsor a [World Café](https://www.rgs.org/research/annual-international-conference/call/conference-session-formats/world-cafe/) session:
 
 * Session 5: [Beyond the systems of geography information](#session-5)
 
