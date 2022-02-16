@@ -1,0 +1,6 @@
+sponsored-sessions-aic-2022
+session-1-safety-and-emergency-services
+session-2-deep-learning
+session-3-big-data-quality
+session-4-ethics
+session-5-world-café

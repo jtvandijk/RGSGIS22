@@ -1,4 +1,4 @@
-# Session 4: Ethics {-}
+# Session 4: Ethics
 #### <span style="color:#E45201;">How do we consider Ethics within GIScience, including (but not limited to) the Locus Charter</span> {-}
 
 #### Organisers {-}

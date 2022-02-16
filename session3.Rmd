@@ -1,4 +1,4 @@
-# Session 3: Big Data Quality {-}
+# Session 3: Big Data Quality 
 #### <span style="color:#E45201;">Dealing with uncertainty: Quality and Representation in the context of Big Data</span> {-}
 
 #### Organisers {-}
