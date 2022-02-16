@@ -43,10 +43,6 @@ a {
   color: #E45201 !important;
 }
 
-/* .book .book-summary ul.summary li.active>a {
-  color: #E45201 !important;
-} */
-
 .book .book-summary ul.summary li>a {
   color: #000000 !important;
 }
