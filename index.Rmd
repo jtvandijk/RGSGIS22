@@ -25,17 +25,13 @@ The [RGS-IBG Annual International Conference](https://www.rgs.org/research/annua
 
 This year the GIScRG is pleased to sponsor paper presentation sessions on the following topics that focus on geographic information science and tools, cartography, spatial analysis, critical GIS and related disciplines:
 
-* Session 1: [Innovative GI methods in safety and emergency services research](#session-1)
-* Session 2: [Deep learning applications in geography](#session-2)
-* Session 3: [Dealing with uncertainty: Quality and Representation in the context of Big Data](#session-3)
-* Session 4: [Ethics within GIScience, including (but not limited to) the Locus Charter](#session-4)
+* Session 1: [Innovative GI methods in safety and emergency services research](#session-1-safety-and-emergency-services)
+* Session 2: [Deep learning applications in geography](#session-2-deep-learning)
+* Session 3: [Dealing with uncertainty: Quality and Representation in the context of Big Data](#session-3-big-data-quality)
+* Session 4: [Ethics within GIScience, including (but not limited to) the Locus Charter](#session-4-ethics)
 
 The deadline for abstract submission to each of these sessions is **March 18th, 2022.** Further to the paper sessions we also sponsor a [World Café](https://www.rgs.org/research/annual-international-conference/call/conference-session-formats/world-cafe/) session:
 
-* Session 5: [Beyond the systems of geography information](#session-5)
+* Session 5: [Beyond the systems of geography information](#session-5-world-café)
 
 Click on the link to access the details of each sessions and to find out how to contribute to the session. Please note that the RGS has strict limits to the contributions of each delegate (see [Contribution limits](https://www.rgs.org/research/annual-international-conference/call/guidance-for-presenters/#Contribution%20limits)). There is no formal limit to the number of sessions chaired or the number of co-authorships. However, sessions are normally understood as open to submission of papers. A session only composed by members of your own team is unlikely to be approved by the RGS.
-
-
-
-
