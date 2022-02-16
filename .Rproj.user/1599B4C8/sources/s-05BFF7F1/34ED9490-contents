@@ -1,5 +1,5 @@
 --- 
-title: "RGS Annual International Conference 2022"
+title: "RGS Annual International Conference"
 author: Dr Justin van Dijk^[[mappingdutchman.com](https://mappingdutchman.com/)], Dr Stefano De Sabbata^[[sdesabbata.github.io/](https://sdesabbata.github.io/)]
 date: "Last modified: `r Sys.Date()`"
 site: bookdown::bookdown_site

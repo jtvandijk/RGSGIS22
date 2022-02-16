@@ -3,7 +3,7 @@
     "path": "~/Dropbox/UCL/Web/jtvandijk.github.io/RGSGIS22/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "3204978027",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1645017896044.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "25,218",
-        "scrollLine": "15"
+        "cursorPosition": "1,43",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1645024436,
+    "lastKnownWriteTime": 1645024922,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1645024436009,
+    "last_content_update": 1645024922173,
     "read_only": false,
     "read_only_alternatives": []
 }
