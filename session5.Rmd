@@ -1,0 +1,20 @@
+# Session 5 {-}
+### <span style="color:#E45201;">Beyond the systems of geography information</span> {-}
+
+## Organisers {-}
+- Dr [Stefano De Sabbata](https://sdesabbata.github.io/)), *University of Leicester*
+- Dr [Seraphim Alvanides](https://www.northumbria.ac.uk/about-us/our-staff/a/seraphim-alvanides/), *Newcastle University*
+- Dr [Andrea Ballatore](https://aballatore.space/), *King’s College London, University of London*
+- Dr [Phil Jones](https://www.birmingham.ac.uk/staff/profiles/gees/jones-phil.aspx), University of Birmingham
+
+## Abstract {-}
+This session aims to offer a platform for discussing the current and future role of digital information systems in geography, functioning as a point of contact between researchers in digital geographies and geographic information science. The two fields and the myriad of papers, projects and tools that they generated in the past years are sometimes linked and other times separated by lines drawn by researchers and practitioners over decades (Wilson 2017). Beyond the academic discourse, our everyday life is now fully immersed into a digital environment, a network of information systems, which is becoming almost impossible to disentangle from any real or imagined pre-digital, physical world. The pervasiveness of these information systems brought us both new opportunities for co-creating knowledge and tools and a new era of surveillance and algorithmic oversight (Kitchin and Dodge 2011). As digital tools become more widely available and easy to use, we have the opportunity to critically reimagine what our systems of geographic information can be in the future.
+
+In this session, we want to invite participant to discuss the following provocations:
+
+- Quantitative and qualitative methods must not just co-exist, but co-evolve within projects for effective geographic research. 
+- We can now develop digital information systems that work for all (and not the other way around) and marginalised communities in particular. 
+- We need open data, open source software and open access to academic literature to advance geography. 
+
+## World café {-}
+The world café is a format designed to mimic a cafe environment to enable a better flow of conversation between participants. The session normally consists of four meeting stations / tables positioned around the room where a question or theme is posted for participants to discuss, with a facilitator and note-taker posted at each table. In an online format, think about making use of breakout rooms or similar tools within the online platform. More details on the [website of the Royal Geographical Society](https://www.rgs.org/research/annual-international-conference/call/conference-session-formats/world-cafe/).

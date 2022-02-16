@@ -1,0 +1,13 @@
+# Session 3 {-}
+### <span style="color:#E45201;">Dealing with uncertainty: Quality and Representation in the context of Big Data</span> {-}
+
+## Organisers {-}
+Dr [Justin van Dijk](https://mappingdutchman.com/), *University College London* 
+
+## Abstract {-}
+Over the past decade or so, the usage of large and novel data sources has become widespread within Geography and the wider social sciences. Where the usage of social media data has probably reached its peak, the usage of consumer data sources is now well established. Applications within the United Kingdom, for instance, range from using electoral roll data to get insight into population dynamics (cf. [Lansley et al. 2019](https://doi.org/10.1111/rssa.12476); [Van Dijk et al. 2021](https://doi.org/10.1111/rssa.12713)) to using mobile phone traces to understand day-to-day mobility (cf. [Trasberg and Cheshire 2021](https://doi.org/10.1177/00 420980211040409)). Other popular applications are found within the domain of the sharing economy such as bicycle sharing systems (see [Todd et al. 2021a](https://doi.org/10.1016/j.jtrangeo.2021.103119)) and AirBnB (see [Todd et al. 2021b](https://doi.org/10.1016/j.jtrangeo.2021.103119)).
+
+Whilst insightful, there is a clear interest in exploring the quality and representation of these data sets. One of more pertinent questions is what is the provenance of various sources of these novel data sources? What, if any, is the relationship between specific data source (e.g. provision of information about travel, retail services, public services) and fitness for purpose in socially inclusive analyses? How can we reconcile new Big Data with conventional data sources? This session seeks to be a platform to discuss exactly the challenges, opportunities, and barriers to do this.
+
+## Instructions for Authors {-}
+Please submit abstracts of no more than 250 words for 15 minutes presentations to j.t.vandijk@ucl.ac.uk before **March 18th, 2022**.

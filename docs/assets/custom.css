@@ -37,3 +37,20 @@
   background-color: #e6f2ff;
   color: #525252;
 }
+
+/*--- links ---*/
+a {
+  color: #E45201 !important;
+}
+
+.book .book-summary ul.summary li>a {
+  color: #000000 !important;
+}
+
+.book .book-summary ul.summary li.active>a {
+  color: #E45201 !important;
+}
+
+.book .book-summary ul.summary li.hover>a {
+  color: #E45201 !important;
+}
