@@ -1,0 +1,10 @@
+<script>
+  $(document).ready(function() {
+
+   $('.summary > li > a > b, h1 > span, h1').each(function() {
+      var temp = $(this).text();
+      $(this).text(temp.replace(/(\d|^\s)/, ''));
+    });
+
+  });
+</script>

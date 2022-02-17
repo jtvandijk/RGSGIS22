@@ -53,6 +53,16 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+<script>
+  $(document).ready(function() {
+
+   $('.summary > li > a > b, h1 > span, h1').each(function() {
+      var temp = $(this).text();
+      $(this).text(temp.replace(/(\d|^\s)/, ''));
+    });
+
+  });
+</script>
 
 
 
@@ -101,7 +111,7 @@
 <div id="header">
 <h1 class="title">RGS Annual International Conference</h1>
 <p class="author"><em>Dr Justin van Dijk<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>, Dr Stefano De Sabbata<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a></em></p>
-<p class="date"><em>Last modified: 2022-02-16</em></p>
+<p class="date"><em>Last modified: 2022-02-17</em></p>
 </div>
 <div id="sponsored-sessions-aic-2022" class="section level1 hasAnchor" number="1">
 <h1><span class="header-section-number">1</span> Sponsored Sessions AIC 2022<a href="index.html#sponsored-sessions-aic-2022" class="anchor-section" aria-label="Anchor link to header"></a></h1>

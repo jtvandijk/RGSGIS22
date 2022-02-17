@@ -3,7 +3,10 @@ title: "RGS Annual International Conference"
 author: Dr Justin van Dijk^[[mappingdutchman.com](https://mappingdutchman.com/)], Dr Stefano De Sabbata^[[sdesabbata.github.io/](https://sdesabbata.github.io/)]
 date: "Last modified: `r Sys.Date()`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output: 
+  bookdown::gitbook:
+    includes:
+      in_header: header.html
 documentclass: book
 link-citations: yes
 github-repo: "jtvandijk/RGSGIS22"
